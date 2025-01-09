@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathaniel Abby Thamrin</h1>
-<h3 align="center">Nama saya Nathaniel Abby Thamrin, seorang mahasiswa Computer Science di Binus University yang sedang mengeksplorasi dunia Database dan Data Analysis. Saya tertarik untuk terus belajar dan berkembang di bidang teknologi, khususnya dalam eksplorasi data dan pengelolaan basis data.</h3>
+<h3 align="center">Seorang mahasiswa Computer Science di Binus University yang sedang mengeksplorasi dunia Database dan Data Analysis. Saya tertarik untuk terus belajar dan berkembang di bidang teknologi, khususnya dalam eksplorasi data dan pengelolaan basis data.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
